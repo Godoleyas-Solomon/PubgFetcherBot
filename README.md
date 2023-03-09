@@ -1,1 +1,1 @@
-# PubgFetcherBot
+Pubg Fetcher Bot under development
